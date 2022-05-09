@@ -1,0 +1,59 @@
+.container{
+    text-align: center;
+    margin: 23px;
+}
+table{
+    margin: auto;
+    margin-top: 28px;
+}
+input{
+    font-size: 41px;
+    background-color: whitesmoke;
+    color: black;
+    border:3px solid palegreen ;
+    border-radius: 18px;
+}
+button{
+    font-size: 45px;
+    background-color: rgb(133, 209, 185);
+    width: 100px;
+    height:100px ;
+    border-radius: 18px;
+}
+.calculator{
+    display: inline-block;
+    background-color: rgb(105, 105, 117);
+    padding: 15px;
+    border-radius: 20px;
+}
+#class{
+    display: none;
+    color: lightseagreen;
+}
+#class button{
+    background-color: lightgoldenrodyellow;
+   
+}
+.btn{
+    display: none;
+    background-color: lightgoldenrodyellow;
+   
+    
+}
+.bt{
+   background-image: url('https://www.clipartmax.com/png/middle/297-2978180_windows-media-player-back-button-icons-png-back-button-icon-blue.png');
+   background-repeat: no-repeat;
+  
+   background-size: 146px;
+    background-position: bottom;
+    color: whitesmoke;
+    font-size: 0px;
+     color: rgb(133, 209, 185);
+}
+.btnn{
+    background-image: url(https://image.shutterstock.com/z/stock-vector-full-size-button-icon-on-white-background-vector-symbol-focus-icon-full-screen-symbol-logo-1659064579.jpg);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-size: cover;
+    font-size: 0px;
+}
